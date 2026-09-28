@@ -1,0 +1,6 @@
+{
+  "name": "English 3000 Spelling & Pronunciation Trainer",
+  "description": "3,000 daily-use English words pronunciation and spelling dictation practice app with instant error correction, audio accents, and Hindi meanings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
